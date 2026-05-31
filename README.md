@@ -66,7 +66,7 @@ df_India = df[df['job_country'] == 'India']
 
 Identified the top skills required across the most common data roles.
 
-![Skill Demand](3_Project/Images/analysis.png)
+![Skill Demand](3_Project/Images/skill_demand.png)
 
 ### Key Findings
 
