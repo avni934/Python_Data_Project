@@ -66,7 +66,7 @@ df_India = df[df['job_country'] == 'India']
 
 Identified the top skills required across the most common data roles.
 
-![Skill Demand](Images/skill_demand.png)
+![Skill Demand](3_Project/Images/analysis.png)
 
 ### Key Findings
 
@@ -80,7 +80,7 @@ Identified the top skills required across the most common data roles.
 
 Analyzed how demand for key Data Analyst skills changes over time.
 
-![Skill Trends](Images/trends.png)
+![Skill Trends](3_Project/Images/trends.png)
 
 ### Key Findings
 
@@ -94,7 +94,7 @@ Analyzed how demand for key Data Analyst skills changes over time.
 
 Compared salaries and identified high-paying skills for Data Analysts.
 
-![Salary Analysis](Images/analysis.png)
+![Salary Analysis](3_Project/Images/analysis.png)
 
 ### Key Findings
 
@@ -108,7 +108,7 @@ Compared salaries and identified high-paying skills for Data Analysts.
 
 Combined salary and demand metrics to identify the best skills for career growth.
 
-![Optimal Skills](Images/optimal_skills.png)
+![Optimal Skills](3_Project/Images/optimal_skills.png)
 
 ### Key Findings
 
