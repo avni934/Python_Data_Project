@@ -80,7 +80,7 @@ Identified the top skills required across the most common data roles.
 
 Analyzed how demand for key Data Analyst skills changes over time.
 
-![Skill Trends](3_Project/Images/trends.png)
+![Skill Trends](3_Project/Images/job_trends.png)
 
 ### Key Findings
 
@@ -94,7 +94,7 @@ Analyzed how demand for key Data Analyst skills changes over time.
 
 Compared salaries and identified high-paying skills for Data Analysts.
 
-![Salary Analysis](3_Project/Images/analysis.png)
+![Salary Analysis](3_Project/Images/job_analysis.png)
 
 ### Key Findings
 
